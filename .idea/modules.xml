@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_All/Algorithm_All.iml" filepath="$PROJECT_DIR$/Algorithm_All/Algorithm_All.iml" />
+      <module fileurl="file://$PROJECT_DIR$/All File/All File.iml" filepath="$PROJECT_DIR$/All File/All File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/All Game/All Game.iml" filepath="$PROJECT_DIR$/All Game/All Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Deque/Deque.iml" filepath="$PROJECT_DIR$/Deque/Deque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum/Enum.iml" filepath="$PROJECT_DIR$/Enum/Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/For Window.iml" filepath="$PROJECT_DIR$/.idea/For Window.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java GUI/Java GUI.iml" filepath="$PROJECT_DIR$/Java GUI/Java GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Interface/Java Interface.iml" filepath="$PROJECT_DIR$/Java Interface/Java Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java OOP/Java OOP.iml" filepath="$PROJECT_DIR$/Java OOP/Java OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java basic/Java basic.iml" filepath="$PROJECT_DIR$/Java basic/Java basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linkedlist/Linkedlist.iml" filepath="$PROJECT_DIR$/Linkedlist/Linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My Array/My Array.iml" filepath="$PROJECT_DIR$/My Array/My Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String in java/String in java.iml" filepath="$PROJECT_DIR$/String in java/String in java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/The car/The car.iml" filepath="$PROJECT_DIR$/The car/The car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class_ Abstract/class_ Abstract.iml" filepath="$PROJECT_DIR$/class_ Abstract/class_ Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/key private public protected/key private public protected.iml" filepath="$PROJECT_DIR$/key private public protected/key private public protected.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project java student oop/project java student oop.iml" filepath="$PROJECT_DIR$/project java student oop/project java student oop.iml" />
+    </modules>
+  </component>
+</project>

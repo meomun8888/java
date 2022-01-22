@@ -51,8 +51,8 @@ public class Test {
 //        for (int i = 1;i<=100;i++) {
 //            arr.xxx(i);
 //        }
-
         Search sr = new Search();
         System.out.println(sr.searchBinary(a,8));
+        // hello
     }
 }
